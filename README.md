@@ -26,7 +26,10 @@ This project explores the economic and social determinants of infant mortality r
 4. **Visualization**: Trends and density plots showcasing IMR and key predictors.
 
 ---
+## View the Report
+You can view the project report [here](https://drive.google.com/file/d/11Yawq8L_FkKT4WMw4vBeUlB6NS_adLeK/view?usp=sharing).
 
+---
 ## **Key Findings**
 - **GDP**: Economic growth has a stronger impact on reducing IMR in developing countries compared to developed ones.
 - **Health Index**: Higher healthcare access and quality significantly reduce IMR.
